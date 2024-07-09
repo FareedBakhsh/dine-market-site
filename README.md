@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dine Market
 
 ![headerLogo](https://github.com/MasabBinZia/Hackthon-01-web-Ecommerce-web/assets/94193065/da349a23-2908-4901-99c1-2b1ab0ab0941)
@@ -60,3 +61,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Acknowledgements
 
 I would like to thank the PIAIC team for organizing the hackathon and providing the opportunity to work on this project. Special thanks to the creators and maintainers of Next.js, React, TypeScript, Tailwind CSS, and Shadcn UI for their amazing tools and libraries.
+=======
+# dine-market-site
+>>>>>>> 747c40e237644347b2354eff3b176239e718437e
